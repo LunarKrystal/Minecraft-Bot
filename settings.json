@@ -1,0 +1,50 @@
+{
+  "bot-account": {
+    "username": "LunarBot24/7",
+    "password": "",
+    "type": "mojang"
+  },
+
+  "server": {
+    "ip": "LunarWorld.aternos.me",
+    "port": 58168,
+    "version": "1.16.5"
+  },
+
+  "position": {
+    "enabled": false,
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+
+  "utils": {
+    "auto-auth": {
+      "enabled": false,
+      "password": ""
+    },
+
+    "anti-afk": {
+      "enabled": false,
+      "sneak": false
+    },
+
+    "chat-messages": {
+      "enabled": true,
+      "repeat": true,
+      "repeat-delay": 60,
+
+      "messages": [
+        "Xin Chào mọi người",
+        "Mọi người chơi vui chứ?",
+        "Tui là Lunar Bot",
+        "Tôi được chạy bởi Khôi Developer",
+        "Tôi ở đây để giúp server treo 24/7 nhé. <3"
+      ]
+    },
+
+    "chat-log": false,
+    "auto-reconnect": true,
+    "auto-recconect-delay": 5000
+  }
+}
